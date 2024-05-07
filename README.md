@@ -6,7 +6,7 @@
 -  👯 I’m looking to collaborate on an open project
 - 🌎 Visit my [Portfolio](https://www.rabinshah.info/)
 - 🌎 Visit my [LinkedIn](https://www.linkedin.com/in/rabin-shah/)
-- 🙋 You can contact me at Email: rabin9087@gmail.com
+- 🙋 You can Email me at rabin9087@gmail.com
   <br/>
 - Thank you for visiting my Github profile!
 <!--
