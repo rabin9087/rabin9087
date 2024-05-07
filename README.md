@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi there 👋 
+Software Engineer | Web Development Specialist | Full Stack Developer | MERN Developer | JavaScript Engineer | Front-end Developer | Back-end Developer
 
+- 🔭 I’m currently looking for a new job opportunity
+- 🌱 I’m currently learning TypeScript
+-  👯 I’m looking to collaborate on an open project
+- Visit my [Portfolio](https://www.rabinshah.info/)
+- Visit my [LinkedIn](https://www.linkedin.com/in/rabin-shah/)
+- You can contact me at Email: rabin9087@gmail.com
 <!--
 **rabin9087/rabin9087** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
