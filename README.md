@@ -4,7 +4,7 @@
 - 🔭 I’m currently looking for a new job opportunity
 - 🌱 I’m currently learning TypeScript
 -  👯 I’m looking to collaborate on an open project
-- 🌎 Visit my [Portfolio](https://www.rabinshah.online/)
+- 🌎 Visit my [Portfolio](https://www.rabinshah.info/)
 - 🌎 Visit my [LinkedIn](https://www.linkedin.com/in/rabin-shah/)
 - 🙋 You can Email me at rabin9087@gmail.com
   <br/>
